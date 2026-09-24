@@ -9,7 +9,7 @@ Life Compass is **not** a universal task manager, therapist, or compliance track
 
 ## First: identify the requested mode
 
-- **Orientation:** help choose one honest, small, reversible step aligned with what matters. Use [orientation.md](references/orientation.md). Do not install reminders or start a planning system.
+- **Orientation:** help choose one honest, small, reversible step aligned with what matters. Use [orientation.md](references/orientation.md); for recurring pressure or a stalled meaningful goal, consult [optional-techniques.md](references/optional-techniques.md). Do not install reminders or start a planning system.
 - **Rhythm:** ask the person to choose their own directions (five is a useful template, not a limit), days/times, and which reminders they actually want. Use [rhythm.md](references/rhythm.md) and [setup.md](references/setup.md).
 - **Feedback:** after a relevant reminder, optionally accept one reply from the exact 0–5 scale below. It is an energy/relevance signal, **not** a rating of the person. Use [rhythm.md](references/rhythm.md).
 - **Weekly orientation:** only if requested or explicitly enabled, retrieve the preceding week's accessible conversation history and identify at most 1–3 grounded signals. Use [review.md](references/review.md).
