@@ -1,0 +1,13 @@
+# Never commit populated settings, logs, histories, media, or credentials.
+*.local.json
+compass.json
+state/
+runs/
+output/
+*.log
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+.DS_Store

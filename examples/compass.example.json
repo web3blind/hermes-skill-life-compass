@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "timezone": null,
+  "delivery": null,
+  "directions": [
+    {"id": "direction-1", "name": null, "why": null, "reminders": []},
+    {"id": "direction-2", "name": null, "why": null, "reminders": []},
+    {"id": "direction-3", "name": null, "why": null, "reminders": []},
+    {"id": "direction-4", "name": null, "why": null, "reminders": []},
+    {"id": "direction-5", "name": null, "why": null, "reminders": []}
+  ],
+  "weekly_review": {"enabled": false, "schedule": null, "history_source": null},
+  "sleep_transition": {"enabled": false, "schedule": null, "audio": null},
+  "feedback_enabled": false,
+  "feedback": [],
+  "created_job_ids": []
+}
